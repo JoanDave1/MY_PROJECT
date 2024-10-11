@@ -90,9 +90,19 @@ Results from our analysis show that our top 5 performing cities in terms of reve
 - San Francisco $41,395.40
 - Miami $33,116.32
 - Baltimore $30,736.08
+  
+Other cities include
+- Los Angeles $25,458.17
+- New Jersey $20,801.19
+- Dallas $20,594.21
+- Atlanta $20,387.23
 
+3.4a Conclusion
 
+Based on our analysis, here are a few insights we an draw.
 
+- Boston, New York and San Francisco, Miami and Baltimore are the top performing cities generating a significantly higher revenue than others. This suggests that these cities have higher demand for beer than others.
+- There are regional differences in market conditions, consumer behaviour or sales strategies.
 -----
 
 ### 4. Strategic Recommendations
