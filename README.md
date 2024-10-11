@@ -69,6 +69,30 @@ Age group 60 or above has the lowest order quantity of beer, which may indicate 
 
 - Older adults may be less likely to socialize or engage in activities that involve beer consumption.
 - They may have health considerations that affect their drinking habits.
+
+#### Total Revenue vs Order Location
+
+3.1a Objective
+
+To compare the revenue generated different order locations and provide meaningful insights.
+
+3.2a Methodology
+
+- We are provided with 9 different locations (Atlanta, Baltimore, Boston, Dallas, Los Angeles, Miami, New Jersey, New York and San Francisco) and revenue generated from each location.
+- Data visualization using a line graph.
+
+3.3a Results
+
+Results from our analysis show that our top 5 performing cities in terms of revenue generation are 
+
+- Boston $43,775.64
+- New York $42,326.80
+- San Francisco $41,395.40
+- Miami $33,116.32
+- Baltimore $30,736.08
+
+
+
 -----
 
 ### 4. Strategic Recommendations
