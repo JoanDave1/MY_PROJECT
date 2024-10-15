@@ -1,4 +1,4 @@
-# MY LITA PROJECT
+# MY DATA ANALYSIS JOURNEY
 ## Data Visualization and Analysis using Microsoft Excel.
 -----
 ### Table of Contents
