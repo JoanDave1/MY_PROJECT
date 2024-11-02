@@ -1,4 +1,4 @@
-# MY DATA ANALYSIS JOURNEY
+# MY DATA ANALYSIS PERSONAL TRAINING
 ## Data Visualization and Analysis using Microsoft Excel.
 -----
 ### Table of Contents
