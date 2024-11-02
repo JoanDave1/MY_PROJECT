@@ -1,4 +1,4 @@
-# MY DATA ANALYSIS PERSONAL TRAINING
+# MY DATA ANALYSIS PERSONAL PROJECT
 ## Data Visualization and Analysis using Microsoft Excel.
 -----
 ### Table of Contents
